@@ -1,0 +1,51 @@
+
+header{
+    padding-top: 10%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+}
+#about{
+    padding-top: 10%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    text-align: center;
+
+}
+#service{
+    padding-top: 5%;
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+
+}
+#container ul{
+
+    margin-top: 100px;
+    
+   
+}
+ul li{
+    display: inline;
+    
+    margin-left: 160px;
+   
+}
+#container ul li a{
+    font-size: larger;
+    text-decoration: none;
+    
+    
+}
+#ww{
+    background-color: bisque;
+    text-transform: uppercase;
+    
+}
